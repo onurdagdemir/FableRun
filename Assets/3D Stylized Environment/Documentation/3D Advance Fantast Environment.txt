@@ -1,0 +1,32 @@
+Documentation of 3D Advqance Fantasy Environment
+
+In this Fantasy Environment, we have created all the models separatedly, all the models are reuseable and it's depends upon us that how we can use and place in the environment.
+we have created Different types of Houses, Poles, lamps, trees, bridges, Air balloons, Balloon Airship, Well, small stylish stairs,cartoonish Mountains, Stones, Windmill, Wood Fence
+doors, windows, House Basements,  Animated Models, street lights, Obstacles, Lanteren, clouds and other small props etc. 
+
+Models are made with 7 textures. The 3D Advance Fantasy Environment pack consists of different objects created individually, so you can use them to create an intuitive and eye-catching 
+user interface for your 3D game or animated video. The vectors can be edited and placed at any scene in the game/video to give it a more defined look.
+
+We have different folders:
+1) Material:
+	Models are made with 7 textures.
+2) Models: 
+	You will find seperate pre folders in Model folder. There is 9 folders you will get in this folder.
+3) Prefabs: 
+	3 Folders you will see: All the prefabs will be included in the enviroment according to your environment. Animated prefabs is also included in this project.
+4) Scene: 
+	2 type of scenes: (1) Environment With Obstacles and (2) Environment without Obstacles. (3) all props
+5) Texture:
+	We used 7 textures in this Fantasy environment.
+6) Post Process:	
+	Post Process lightning.	
+7) Obstacles:
+	you will get obstacles models and material in this folder.
+8)Documentation: 
+	Read Me File.
+
+Note:
+we have used the free water Asset from Unity asset store. So Water wouldn't be included. If you need same water so you can get to click on below given link.
+Url of free Water Asset (Stylized Water For URP): https://assetstore.unity.com/packages/vfx/shaders/stylized-water-for-urp-162025 
+
+All the prefabs are created, you can use each prefabs according to your environment needs. you just need to drag and drop each prefab whereever you want. you can create a big environment for you 3d Fantasy games and 3d animated Environment. Each objects are scable, you can transform and rotate each object.
